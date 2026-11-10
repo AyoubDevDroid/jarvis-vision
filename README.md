@@ -4,6 +4,10 @@ Détection de véhicules (YOLO11), suivi multi-objets et lecture de plaques (Fas
 
 > Version améliorée du projet [Orsy-git/jarvis](https://github.com/Orsy-git/jarvis).
 
+## 🎬 Démo
+
+[▶️ Voir la vidéo de démo du suivi de flotte](docs/jarvis_demo_flotte.mp4) (plaques floutées)
+
 ## ✨ Fonctionnalités
 
 - Voitures, motos, bus, camions et vélos détectés et colorés par type
