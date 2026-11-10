@@ -6,6 +6,8 @@ Détection de véhicules (YOLO11), suivi multi-objets et lecture de plaques (Fas
 
 ## 🎬 Démo
 
+<video src="https://media.githubusercontent.com/media/AyoubDevDroid/jarvis-vision/main/docs/jarvis_demo_flotte.mp4" controls width="100%"></video>
+
 [▶️ Voir la vidéo de démo du suivi de flotte](docs/jarvis_demo_flotte.mp4) (plaques floutées)
 
 ## ✨ Fonctionnalités
