@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+# Video inputs and rendered outputs can contain private footage.
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Model weights are large and can be downloaded when the app starts.
+*.pt
+*.onnx
+*.engine
+*.db
+snapshots/

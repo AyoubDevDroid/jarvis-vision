@@ -1,0 +1,3 @@
+# Mode complet (--backend ultralytics, ByteTrack)
+-r requirements.txt
+ultralytics>=8.3,<9

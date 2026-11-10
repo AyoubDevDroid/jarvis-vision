@@ -1,0 +1,4 @@
+# Mode leger (--backend onnx) : aucun PyTorch necessaire
+opencv-python>=4.10
+fast-alpr[onnx]>=0.4
+numpy
